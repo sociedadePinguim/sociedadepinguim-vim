@@ -4,9 +4,9 @@ O tema oficial da Sociedade Pinguim para o Vim. Um esquema de cores escuro, mode
 
 ---
 
-# Pinguim Dark Vim Theme 🐧
+# Sociedade Pinguim Dark Vim Theme 🐧
 
-O **Pinguim Dark** é o esquema de cores oficial da **Sociedade Pinguim** para o editor Vim. Foi projetado para oferecer contraste equilibrado, com tons de verde esmeralda, azul profundo e roxo, mantendo a leitura confortável para longas horas de código.
+O **sociedadepinguim-dark** é o esquema de cores oficial da **Sociedade Pinguim** para o editor Vim. Foi projetado para oferecer contraste equilibrado, com tons de verde esmeralda, azul profundo e roxo, mantendo a leitura confortável para longas horas de código.
 
 ---
 
@@ -24,10 +24,10 @@ mkdir -p ~/.vim/colors
 
 ### 2. Mover o arquivo do tema
 
-Mova o arquivo `pinguim-dark.vim` (baixado deste repositório) para a pasta criada:
+Mova o arquivo `sociedadepinguim-dark.vim` (baixado deste repositório) para a pasta criada:
 
 ```bash
-cp pinguim-dark.vim ~/.vim/colors/
+cp sociedadepinguim-dark.vim ~/.vim/colors/
 ```
 
 ### 3. Ativar o tema no Vim
@@ -48,7 +48,7 @@ syntax on
 set termguicolors
 
 " Define o Pinguim Dark como o tema padrão
-colorscheme pinguim-dark
+colorscheme sociedadepinguim-dark
 ```
 
 Salve e abra o Vim para ver o tema aplicado.
