@@ -62,4 +62,4 @@ Salve e abra o Vim para ver o tema aplicado.
 
 ---
 
-Feito com 🐧 pela Sociedade Pinguim.
+Feito pela Sociedade Pinguim 🐧.
