@@ -55,6 +55,9 @@ Salve e abra o Vim para ver o tema aplicado.
 
 ---
 
+![Preview do Tema Pinguim Dark](https://github.com/sociedadePinguim/sociedadepinguim-vim/raw/main/tema-vim.png)
+
+
 ## Notas
 
 - O tema foi otimizado para terminais com suporte a True Color (24-bit). Se seu terminal não suportar, as cores podem ficar diferenciadas.
