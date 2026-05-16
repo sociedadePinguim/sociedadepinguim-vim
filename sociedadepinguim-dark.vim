@@ -1,7 +1,7 @@
 " Name:         SociedadePinguim-Dark
 " Author:       Lucas Dias - Sociedade Pinguim
 " Maintainer:   Sociedade Pinguim
-" License:      MIT
+" License:      GPL
 
 set background=dark
 hi clear
